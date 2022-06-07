@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @supersnowy
-- 👀 I’m interested in blockchain technology
+- 👀 I’m interested in blockchain and full-stack technology
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me ...
