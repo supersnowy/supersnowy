@@ -82,7 +82,7 @@
 
 
 📖 About me
-
+-----------------------------------------------------------------------
 💻 I'm a full stack web developer
 🎨 I'm a self-taught UI designer
 📱 I make apps for Android and iOS
