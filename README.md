@@ -85,17 +85,17 @@
 
 📖 About me
 -----------------------------------------------------------------------
-💻 I'm a full stack web developer
+💻 I'm a full stack web and smart contract developer
 
 🎨 I'm a self-taught UI designer
 
 📱 I make apps for Android and iOS
 
-🎓 Completed B.Sc. in Computer Science in 2021
+🎓 Completed B.Sc. in Computer Science in 2014
 
 🌐 You can see my some of my projects on my portfolio
 
-📺 I make web development and tech tutorials on YouTube
+📺 I look forward to join a high tech company team
 
 <!---
 supersnowy/supersnowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
